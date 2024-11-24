@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hello there 👋, I'm Tafadzwa!
 
+🌱 Full Stack Software Developer student at Code Institute<br/>
+👷‍♂️ Bachelor's Degree in Civil Engineering <br/>
+🙂 Executive Assistant @ McKinsey & Company <br/>
+🔭 Currently learning about Predictive Analytics <br/>
+
+
+![Tafadzwa Nangena's GitHub stats](https://github-readme-stats.vercel.app/api?username=tafadzwamangena&show_icons=true&theme=radical)
 <!--
 **TafadzwaMangena/TafadzwaMangena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
