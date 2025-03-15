@@ -2,7 +2,6 @@
 
 🌱 Full Stack Software Developer student at Code Institute<br/>
 👷‍♂️ Bachelor's Degree in Civil Engineering <br/>
-🙂 Executive Assistant @ McKinsey & Company <br/>
 🔭 Currently learning about Predictive Analytics <br/>
 
 
