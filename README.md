@@ -1,6 +1,6 @@
 ## Hello there 👋, I'm Tafadzwa!
 
-🌱 Full Stack Software Developer student at Code Institute<br/>
+🌱 Full Stack Software Developer / Data Analyst<br/>
 👷‍♂️ Bachelor's Degree in Civil Engineering <br/>
 🔭 Currently learning about Predictive Analytics <br/>
 
